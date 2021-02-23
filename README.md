@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. i am passionate about creating AI applications and data driven products to help you live a stress-free life and solve emerging problems. i have excellent experience in building production ready AI applications(NLP, Classification and Regression)
+My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. i am passionate about building machine learning models and data driven products to help you live a stress-free life and solve emerging problems. i have excellent experience in building production ready machine learning models(NLP, Classification and Regression)
 
 **Strong Languages**: Python, SQL, Go
   
