@@ -14,7 +14,7 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 
 Latest Updates:
 
-* I became a [IBM Champion - Data and AI, 2021](https://developer.ibm.com/champions/)
+* I became a [IBM Champion - Data and AI, 2017 - 2021](https://developer.ibm.com/champions/)
 
 My blogging platforms:
  * [Youtube](bit.ly/dataknight)
