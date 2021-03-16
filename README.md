@@ -29,4 +29,11 @@ I am currently open to hiring for data scientist and machine learning position.
 
  [My Resume](https://docs.google.com/document/d/111tv87hUbvvwbvdz2hgGvuOUH0eOuC-wubHUDPY-WfU/edit?usp=sharing)
  
+ ==================================
+ 
+ <p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/Ezike/count.svg" />
+</p>
+=========================================================
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emekaborisama)](https://github.com/emekaborisama/github-readme-stats)
