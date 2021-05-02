@@ -7,7 +7,7 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 
 --------------------------------------------------------------------------
   
-**🔭 I’m currently building and maintaining open source data tools and products 
+#### 🔭 I’m currently building and maintaining open source data tools and products 
 
 - [Twitter Thread Summarizer](twitter.com/summarizethread)(Compress long Twitter thread into a shirt story)
 - [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters)
@@ -27,11 +27,11 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 
 ------------------------------------------------------------------------
 
-**Latest Updates:
+*Latest Updates:
 
 * I became a [IBM Champion - Data and AI, 2017 - 2021](https://developer.ibm.com/champions/)
 
-My blogging platforms:
+*My blogging platforms:
  * [Youtube](bit.ly/dataknight)
  * [Medium](emekaboris.medium.com)
  * [Hashnode](https://hashnode.com/@emekaboris)
@@ -42,7 +42,7 @@ My blogging platforms:
 -----------------------------------
 I am currently open to hiring for data scientist and machine learning position. 
 
-**[My Resume](https://docs.google.com/document/d/111tv87hUbvvwbvdz2hgGvuOUH0eOuC-wubHUDPY-WfU/edit?usp=sharing)
+#### [My Resume](https://docs.google.com/document/d/111tv87hUbvvwbvdz2hgGvuOUH0eOuC-wubHUDPY-WfU/edit?usp=sharing)
  
  ==================================
  
