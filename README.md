@@ -5,7 +5,7 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 
 **Languages**: Python, SQL, Go
   
-- 🔭 I’m currently building and maintaining open source data tools and products [Twitter Thread Summarizer](twitter.com/summarizethread), [Rosa Love ai](https://rosalove.xyz), [Datasist](https://github.com/risenW/datasist), [Text Generation library](https://github.com/Emekaborisama/textgen) and Linfly AI(launching soon), FlaskML (Launching soon), DETM library(dynmaic embedding topic model) - under review
+- 🔭 I’m currently building and maintaining open source data tools and products [Twitter Thread Summarizer](twitter.com/summarizethread)(Compress long Twitter thread into a shirt story), [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters), [Datasist](https://github.com/risenW/datasist)(A python library for data scientist), [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm), [god](https://github.com/Emekaborisama/god)(Control the web with your voice) and Linfly AI(launching soon), FlaskML (Launching soon), DETM library(dynmaic embedding topic model) - under review
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about OSS, Machine Learning and Data Science.
 - 📫 How to reach me: Email (borisphilosophy@gmail.com) [Twitter](https://twitter.com/emeka_boris), [Linkedin](https://www.linkedin.com/in/emekaborisama).
