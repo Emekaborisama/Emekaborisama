@@ -4,15 +4,30 @@
 My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. i am passionate about building machine learning models and data driven products to help you live a stress-free life and solve emerging problems. i have excellent experience in building production ready machine learning models(NLP, Classification and Regression)
 
 **Languages**: Python, SQL, Go
+
+--------------------------------------------------------------------------
   
-- 🔭 I’m currently building and maintaining open source data tools and products [Twitter Thread Summarizer](twitter.com/summarizethread)(Compress long Twitter thread into a shirt story), [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters), [Datasist](https://github.com/risenW/datasist)(A python library for data scientist), [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm), [god](https://github.com/Emekaborisama/god)(Control the web with your voice) and Linfly AI(launching soon), FlaskML (Launching soon), DETM library(dynmaic embedding topic model) - under review
+**🔭 I’m currently building and maintaining open source data tools and products 
+
+- [Twitter Thread Summarizer](twitter.com/summarizethread)(Compress long Twitter thread into a shirt story)
+- [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters)
+- [Datasist](https://github.com/risenW/datasist)(A python library for data scientist)
+- [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm)
+- [god](https://github.com/Emekaborisama/god)(Control the web with your voice)
+- Linfly AI(launching soon)
+- FlaskML (Launching soon)
+- DETM library(dynamic embedding topic model python library) - under review
+
+
+---------------------------------------------------------------------------
+
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about OSS, Machine Learning and Data Science.
 - 📫 How to reach me: Email (borisphilosophy@gmail.com) [Twitter](https://twitter.com/emeka_boris), [Linkedin](https://www.linkedin.com/in/emekaborisama).
 
---------------
+------------------------------------------------------------------------
 
-Latest Updates:
+**Latest Updates:
 
 * I became a [IBM Champion - Data and AI, 2017 - 2021](https://developer.ibm.com/champions/)
 
@@ -27,7 +42,7 @@ My blogging platforms:
 -----------------------------------
 I am currently open to hiring for data scientist and machine learning position. 
 
- [My Resume](https://docs.google.com/document/d/111tv87hUbvvwbvdz2hgGvuOUH0eOuC-wubHUDPY-WfU/edit?usp=sharing)
+**[My Resume](https://docs.google.com/document/d/111tv87hUbvvwbvdz2hgGvuOUH0eOuC-wubHUDPY-WfU/edit?usp=sharing)
  
  ==================================
  
