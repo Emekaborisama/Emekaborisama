@@ -32,8 +32,8 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 * I became a [IBM Champion - Data and AI, 2017 - 2021](https://developer.ibm.com/champions/)
 
 *My blogging platforms:
- * [Youtube](bit.ly/dataknight)
- * [Medium](emekaboris.medium.com)
+ * [Youtube](https://www.youtube.com/channel/UCfin6Ag1GxmFj9eu-wiOP8w/featured?view_as=subscriber)
+ * [Medium](https://emekaboris.medium.com/)
  * [Hashnode](https://hashnode.com/@emekaboris)
  
  Research paper:
