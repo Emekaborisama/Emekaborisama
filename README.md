@@ -9,11 +9,11 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
   
 #### 🔭 I’m currently building and maintaining open source data tools and products 
 
-- [Twitter Thread Summarizer](twitter.com/summarizethread)(Compress long Twitter thread into a shirt story)
+- [Twitter Thread Summarizer](https://twitter.com/summarizethread)(Compress long Twitter thread into a shirt story)
 - [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters)
 - [Datasist](https://github.com/risenW/datasist)(A python library for data scientist)
 - [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm)
-- [god](https://github.com/Emekaborisama/god)(Control the web with your voice)
+- [god](https://god.emekaboris.me/)(Control the web with your voice)
 - Linfly AI(launching soon)
 - FlaskML (Launching soon)
 - DETM library(dynamic embedding topic model python library) - under review
