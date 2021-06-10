@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. i am passionate about building machine learning models and data driven products to help you live a stress-free life and solve emerging problems. i have excellent experience in building production ready machine learning models(NLP,Audio classification, Speech recongintion, Classification and Regression)
+My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. i am passionate about building machine learning models and data driven products to help you live a stress-free life and solve emerging problems. i have excellent experience in building production ready machine learning models(NLP,Audio classification, Speech recongintion, Computer vision, Classification and Regression)
 
 **Languages**: Python, SQL, Go
 
@@ -15,7 +15,7 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 - [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm)
 - [god](https://god.emekaboris.me/)(Control the web with your voice)
 - Linfly AI(launching soon)
-- FlaskML (Launching soon)
+- FlaskML Monitor for NLP models(Launching soon)
 - DETM library(dynamic embedding topic model python library) - under review
 
 
