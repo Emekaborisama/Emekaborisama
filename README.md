@@ -14,9 +14,10 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 - [Datasist](https://github.com/risenW/datasist)(A python library for data scientist)
 - [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm built with Tensorflow and Pytorch)
 - [god](https://god.emekaboris.me/)(Control the web with your voice)
-- Arida- automated insight for users(launching soon)
-- FlaskML Monitor for NLP models(Launching soon)
-- DETM library(dynamic embedding topic model python library) - under review
+- Text2SQL: convert text to sql statement.
+- Arida: automated insight for your users(launching soon)
+- FlaskML: Monitor for NLP models(Launching soon)
+- DETM library(dynamic embedding topic model python library): under review
 
 
 ---------------------------------------------------------------------------
