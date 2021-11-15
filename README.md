@@ -3,13 +3,13 @@
 
 My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. i am passionate about building machine learning models and data driven products to help you live a stress-free life and solve emerging problems. i have excellent experience in building production ready machine learning models(NLP,Audio classification, Speech recongintion, Computer vision, Classification and Regression)
 
-**Languages**: Python, SQL, Go
+**Languages**: Python, SQL, Go, Javascript(Vue Js)
 
 --------------------------------------------------------------------------
   
 #### 🔭 I’m currently building and maintaining open source data tools and products 
 
-- [Twitter Thread Summarizer](https://twitter.com/summarizethread)(Compress long Twitter thread into a shirt story)
+- [Twitter Thread Summarizer](https://twitter.com/summarizethread)(Compress long Twitter thread into a short story)
 - [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters)
 - [Datasist](https://github.com/risenW/datasist)(A python library for data scientist)
 - [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm built with Tensorflow and Pytorch)
