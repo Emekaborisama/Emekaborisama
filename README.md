@@ -1,20 +1,20 @@
 
 ### Hi there 👋
 
-My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. i am passionate about building machine learning models and data driven products to help you live a stress-free life and solve emerging problems. i have excellent experience in building production ready machine learning models(NLP,Audio classification, Speech recongintion, Computer vision, Classification and Regression)
+My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer. I am passionate about building machine learning models and data-driven products to help you live a stress-free life and solve emerging problems. I have excellent experience in building production-ready machine learning models(NLP, Audio classification, Speech recognition, Computer vision, Classification, and Regression)
 
 **Languages**: Python, SQL, Go, Javascript(Vue Js)
 
 --------------------------------------------------------------------------
   
-#### 🔭 I’m currently building and maintaining open source data tools and products 
+#### 🔭 I’m currently building and maintaining open-source data tools and products 
 
 - [Twitter Thread Summarizer](https://twitter.com/summarizethread)(Compress long Twitter thread into a short story)
-- [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters)
-- [Datasist](https://github.com/risenW/datasist)(A python library for data scientist)
+- [Rosa Love ai](https://rosalove.xyz)(AI-generated unique love letters)
+- [Datasist](https://github.com/risenW/datasist)(A python library for data scientists)
 - [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm built with Tensorflow and Pytorch)
 - [god](https://jon772.preview.softr.app/?t=1636473660555)(Control the web with your voice)
-- Text2SQL: convert text to sql statement.
+- Text2SQL: convert text to SQL statement.
 - Arida: automated insight for your users(launching soon)
 - FlaskML: Monitor for NLP models(Launching soon)
 - DETM library(dynamic embedding topic model python library): under review
@@ -22,8 +22,8 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 
 ---------------------------------------------------------------------------
 
-- 👯 I’m looking to collaborate on open source tools for data science and machine learning.
-- 💬 Ask me about OSS, Machine Learning and Data Science.
+- 👯 I’m looking to collaborate on open-source tools for data science and machine learning.
+- 💬 Ask me about OSS, Machine Learning, and Data Science.
 - 📫 How to reach me: Email (borisphilosophy@gmail.com) [Twitter](https://twitter.com/emeka_boris), [Linkedin](https://www.linkedin.com/in/emekaborisama).
 
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
  * Exploring temporal based embedding topic model to understand legislative bill (still under review)
 
 -----------------------------------
-I am currently open to hiring for data scientist and machine learning position. 
+I am currently open to hiring for a data scientist and machine learning position. 
 
 #### [My Resume](https://docs.google.com/document/d/111tv87hUbvvwbvdz2hgGvuOUH0eOuC-wubHUDPY-WfU/edit?usp=sharing)
  
