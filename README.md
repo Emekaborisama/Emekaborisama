@@ -24,7 +24,7 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about OSS, Machine Learning and Data Science.
-- 📫 How to reach me: Email (borisphilosophy@gmail.com) [Twitter](https://twitter.com/emeka_boris), [Linkedin](https://www.linkedin.com/in/emekaborisama).
+- 📫 How to reach me: Email (borisphilosophy@gmail.com) [Twitter](https://twitter.com/emeka_boris), [Linkedin](https://www.linkedin.com/in/emekaboris).
 
 ------------------------------------------------------------------------
 
