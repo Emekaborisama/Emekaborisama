@@ -13,7 +13,7 @@ My Name is Emeka Boris Ama. I am a Data Scientist and Machine Learning Engineer.
 - [Rosa Love ai](https://rosalove.xyz)(AI generated unqiue love letters)
 - [Datasist](https://github.com/risenW/datasist)(A python library for data scientist)
 - [Text Generation library](https://github.com/Emekaborisama/textgen)(A text generation python algorithm built with Tensorflow and Pytorch)
-- [god](https://jon772.preview.softr.app/?t=1636473660555)(Control the web with your voice)
+- [god](https://github.com/Emekaborisama/god)(Control the web with your voice)
 - Text2SQL: convert text to sql statement.
 - Arida: automated insight for your users(launching soon)
 - FlaskML: Monitor for NLP models(Launching soon)
